@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APICORE", "APICORE\APICORE.csproj", "{39FBB14B-C414-494C-8922-1B23610E6776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39FBB14B-C414-494C-8922-1B23610E6776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39FBB14B-C414-494C-8922-1B23610E6776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39FBB14B-C414-494C-8922-1B23610E6776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39FBB14B-C414-494C-8922-1B23610E6776}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4637100C-B09D-48A0-9E81-5D3BC18FB8F0}
+	EndGlobalSection
+EndGlobal
